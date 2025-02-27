@@ -96,6 +96,12 @@ top: 40px;
   border: 8px solid rgb(25, 82, 114);
 }
 
+.img-container{
+  position: absolute;
+  left: 75px;
+  top: 70px;
+}
+
 .robot-mouth {
   position: absolute;
   left: 40px;
@@ -125,7 +131,7 @@ top: 40px;
 .robot-hair-style {
   display: flex;
   flex-direction: row;
-  position: absolute;
+  position: absolute; 
   left: 100px;
   top: -60px;
   height: 50px;
