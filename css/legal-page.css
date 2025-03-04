@@ -32,10 +32,13 @@ section {
 }
 
 .section-label {
+  position: sticky;
+  top: 0;
   width: 100%;
   background-color: #2b2d3b;
   height: max-content;
   padding: 10px 16px;
+  
 }
 
 .document-content {
